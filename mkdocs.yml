@@ -59,8 +59,7 @@ nav:
   - CV: cv/index.md
   - Research: research/index.md
   - Teaching: teaching/index.md
-  - Outreach: outreach/index.md
-  - EDI: edi/index.md
+  - Volunteering: volunteering/index.md
 
 # Extensions that we want to use
 markdown_extensions:
