@@ -4,7 +4,7 @@ I am a PhD student in the Department of Physics at McGill University, supervised
 
 I am also passionate about [teaching](./teaching/index.md) and [volunteering](./volunteering/index.md) in my community. 
 
-Outside of academics, I am an avid knitter, crocheter, and fibre artist. I also enjoy baking, hiking, stargazing, and snuggling with my two cats: Max and Bella.
+Outside of academics, I am an avid knitter, crocheter, and [fibre artist](./about_me/index_fibre.md). I also enjoy baking, hiking, stargazing, and snuggling with my two cats: [Max and Bella](./about_me/index_cats.md).
 
 #Links
 [LinkedIn](https://www.linkedin.com/in/nicole-mulyk-003546206/)

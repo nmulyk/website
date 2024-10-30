@@ -1,18 +1,18 @@
 # Volunteering
-
 Please see my [CV](./cv/index.md) for a complete list of my volunteer activities.
-
-## Public Outreach Highlights
-![Outreach](./outreach.jpeg){align="left": style="height:400px;width:600px"}
 
 An important step to making the physics and astronomy communities more diverse is making our research more approachable to the public. Outreach events motivate future scientists to pursue careers in academia.
 
+<figure markdown>
+  ![Outreach](./outreach.jpeg){style="width:600px"}
+  <figcaption> Credit: Jay Robb/McMaster University
+</figure>
+
+## Public Outreach Highlights
 - Volunteer Coordinator for [Astronomy on Tap Montreal](https://astronomyontap.org/locations/montreal-qc-canada/)
 - Volunteer with [Canadian Astronomical Society's Westar Program](https://casca.ca/?page_id=7598): building long-term, reciprocal relationship with under-served communities in northern Canada and sharing a mutual exchange of astronomy knowledge
 - Eclipse Ambassador: Giving public talks about the 2024 Total Solar Eclipse ([article](https://gs.mcmaster.ca/eclipse-ambassador-brings-science-into-the-community/))
 - Presenter at the [W.J. McCallion Planetarium](https://planetarium.physics.mcmaster.ca/)
-
-Jay Robb/McMaster University
 
 ## Promoting Equity, Diversity, and Inclusion in the Physics Community
 

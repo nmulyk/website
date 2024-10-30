@@ -6,7 +6,7 @@
  Simultaneously, I was involved with the Student Partners Program, getting further experience with the scholarship of teaching and learning. Along with my supervisors Dr. Pat Clancy and Dr. Miranda Schmidt, we developed a longitudinal survey to examine students' attitudes toward their programs and courses in the Department of Physics and Astronomy at McMaster University. The long-term goal of this project was to evaluate the effectiveness of undergraduate physics programs.
 
 <figure markdown>
-  ![Study Methods](./Study_Methods.png){style="width:500px"}
+  ![Study Methods](./Study_Methods.png){style="width:600px"}
   <figcaption> How often do you use these study methods? </figcaption>
 </figure>
 
