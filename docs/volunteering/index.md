@@ -1,6 +1,4 @@
 # Volunteering
-Please see my [CV](./CV_Nicole_Mulyk.pdf) for a complete list of my volunteer activities.
-
 An important step to making the physics and astronomy communities more diverse is making our research more approachable to the public. Outreach events motivate future scientists to pursue careers in academia.
 
 <figure markdown>
