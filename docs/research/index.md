@@ -14,10 +14,10 @@ Light echoes occur when light from a transient source scatters off the surroundi
 
 ## Recent Paper
 <figure markdown>
-  ![Abundances](./paper.png){style="width:550px"}
+  ![Abundances](./Paper.png){style="width:550px"}
   <figcaption> Abundances of elements for different neutrino flavour transformation models
 </figure>
 I utilized the experience I gained during my undergraduate thesis and other undergraduate research to assist with examining how neutrino flavour transformations affect the abundance patterns of r-process elements in hypermassive neutron star outflows. The results are in Section III C of the paper. I post-processed the results of their hydrodynamic simulation with SkyNet, a particle-based nuclear reaction network code, to simulate nucleosynthesis in the hypermassive neutron stars outflow. The paper can be found [here](https://journals-aps-org.proxy3.library.mcgill.ca/prd/abstract/10.1103/PhysRevD.106.103003).
 
 ## BSc Thesis
- For my undergraduate thesis with Dr. Rodrigo Fernandez, I worked with SkyNet to simulate nucleosynthesis in binary neutron star mergers and examine the initial conditions required to produce r-process elements. My BSc thesis can be found [here](./Undergraduate_thesis.pdf).
+ For my undergraduate thesis with Dr. Rodrigo Fernandez, I worked with SkyNet to simulate nucleosynthesis in binary neutron star mergers and examine the initial conditions required to produce r-process elements. My BSc thesis can be found [here](./Undergraduate_Thesis.pdf).
